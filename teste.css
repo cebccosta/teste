@@ -1,0 +1,78 @@
+			body {
+												font-family: 'montserrat', sans-serif;
+												background-image: url(fundo.jpeg);
+												background-size: cover;
+												}
+
+
+
+													.titulo-logo {
+														text-align: left;
+														font-size: 25px;
+														color: green ;
+														font-weight: bold;
+														text-shadow: 2px 2px #000000;
+														}
+														nav {
+															position: absolute;
+															top: 280px;
+															right: 35px;
+														}
+														nav li {
+															display: inline;
+															margin: 0 0 0 15px;
+														}
+
+														nav a {
+															text-transform: uppercase;
+															color: #000000;
+															font-weight: bold;
+															font-size: 22px;
+															text-decoration: none;
+														}
+
+														nav a:hover {
+															color: #00CD00;
+															text-decoration: underline;
+														}
+
+			
+			
+
+
+
+			.pinocchio {
+					width: 100%;
+					opacity: 0.85;
+
+			}
+
+			.piramide {
+				width: 20%;
+				float: left;
+				padding: 50px 10px;
+
+			}
+
+			table {
+				margin: 20px 0 40px;
+				padding: 30px 10px;
+			}
+			
+
+			
+
+		    .procedencia {
+				width: 15%;
+				float:right;
+				padding: 50px 10px;
+			}
+
+										
+			footer {
+
+			   text-align: center;
+			   background: url("bg.jpeg");
+			   padding: 75px 10px;
+
+			}
